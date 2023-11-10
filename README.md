@@ -1,5 +1,5 @@
 # Horiseon Website
-This website uses HTML and CSS code for Horiseon, a company that provides social solution services such as SEO, online reputation and social media management, with a variety of benefits.
+This website uses HTML and CSS code to create a static display the services and benefits of a company called Horiseon,  which specialises in social solutions such as, SEO, online reputation management and social media management.
 
 ## Table of contents
 - [Features](#features)
@@ -39,9 +39,16 @@ to Modify the content images and style
 git clone https://github.com/AliahG97/horiseon.git
 
 ## Contributing
-Adding semantecs to CSS would be a great addtion.= in additon to consolidating styles.
+Adding semantecs to CSS would be a great, in additon to consolidating styles with advanced css and addting more interactivity eventually with java.
 
 ## License
+MIT License
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
+
+
+
 
 
 
