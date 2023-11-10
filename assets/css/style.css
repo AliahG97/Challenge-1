@@ -23,8 +23,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-/* TO DO: Added header element selector for this style rule */
-.header header {
+/* TO DO: Added nav element selector for this style rule, and nav alligned to the right of the page. */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;

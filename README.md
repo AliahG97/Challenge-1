@@ -19,14 +19,17 @@ The website's HTML  is structured with the following elements
 - Footer with attritution to Horiseon
 
 ## Screenshots
-![Horiseon Website](./assets/images/screenshot.png)
+![Horiseon Screenshot](./assets/images/Horiseon_Screenshot.png) (https://aliahg97.github.io/Challenge-1/)
 
 ## Benefits
 The benefits of using Horiseon's services include:
+
 1.**Lead Generation** 
   - Inbound strategies for lead generation bringcustomers directly to your website.
+
 2.**Brand Awareness**
   - Users find your business through paid and organic searches, increasing search rank visibility.
+  
 3.**Cost Management**
   - As the search ranking increases, advertising costs decrease, eliminating the need for addition advertising.
 
